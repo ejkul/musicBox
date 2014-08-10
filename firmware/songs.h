@@ -27,7 +27,7 @@ const uint16_t oneFourFive[] = {
     E6, E6, B6, E6
 };
 
-//const uint16_t *songs[] = {mario, oneFourFive};
+const uint16_t *songs[] = {mario, oneFourFive};
 
 
 #endif
