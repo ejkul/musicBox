@@ -27,7 +27,24 @@ const uint16_t oneFourFive[] = {
     E6, E6, B6, E6
 };
 
-const uint16_t *songs[] = {mario, oneFourFive};
+const uint16_t yankee[] = {
+    F5, F5, G5, A5,
+    E5, A5, F5, D5
+};
+
+const uint16_t starwars[] = {
+    E3, E3, E3, C3, G3, 
+    E3, C3, G3, E3,
+    B3, B3, B3, C4, B3,
+    Dx3, C3, G3, E3,
+    E4, E3, E3, E4, Dx4, D4,
+    Cx4, C4, Cx4, F3, B3, Gx3, G3,
+    G3, Fx3, G3, C3, Dx3, C3, G3,
+    E3, C3, G3, E3
+};
+    
+
+//const uint16_t *songs[] = {mario, oneFourFive, yankee, starwars};
 
 
 #endif

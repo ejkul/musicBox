@@ -11,7 +11,7 @@
 #include "scale16.h"
 #include "songs.h"
 
-#define SONG mario
+#define SONG starwars
 #define SONG_LENGTH  (sizeof(SONG) / sizeof(uint16_t))
 
 
