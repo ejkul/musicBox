@@ -13,7 +13,7 @@
 
 #define SONG_LENGTH  (sizeof(song) / sizeof(uint16_t))
 
-#define SONG oneFourFive
+#define SONG mario
 
 int main(void)
 {
